@@ -2,7 +2,8 @@
 <br>
 
 <p align="center">
-  <img alt="home-pokedex" src="./assets/image/print-readme.png" width="80%">
+  <img alt="home-pokedex" src="./assets/image/print-readme.png" width="90%">
+    <img alt="home-pokedex" src="./assets/image/print-readme2.png" width="90%">
 
 ## 🚀 Tecnologias
 
